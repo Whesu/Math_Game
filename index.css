@@ -1,0 +1,99 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+h1{
+    color:navy;
+    padding:20px;
+}
+.container .content h1{
+    color:navy;
+    padding:20px;
+    text-align:center;
+
+}
+.container .content input{
+    margin:2% 35%;
+    width:40%;
+    height:40px;
+    padding:20px;
+    outline:none;
+    border:0.2px;
+    border-bottom: 1px solid  red;
+    text-align:center;
+    color:navy;
+}
+button{
+    height:40px;
+    width:30%;
+    border:none;
+    outline:none;
+    padding:10px;
+    margin:2% 35%;
+    color:green;
+    border-radius: 20px;
+    font-size:20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display:none;
+}
+p{
+    color:navy;
+    padding:20px;
+    font-size:20px; 
+    text-align:center;
+    display:none;
+
+}
+.container .content .how h1{
+    padding:10px;
+    color:red;
+    margin:0 20%;
+    
+}
+.container .content .how{
+    display:absolute;
+ 
+    width:30%;
+    margin:0 30%;
+   
+   
+}
+.container .content .mySelect{
+position:absolute;
+margin:-20% 10%;
+width:20%;
+height:5%;
+border-radius: 10px;
+background-color: transparent;
+}
+.max{
+    width:100%;
+    padding:5px;
+    color:navy;
+    border:0.5 px dodgerblue;
+  border-radius:20px;
+  outline:none;
+  text-align:center;
+}
+.myDis{
+    font-size:18px;
+    
+}
+.myDisplay{
+    text-align:center;
+    color:green;
+    padding:5px;
+}
+.forScore{
+    padding:5px;
+    color:orange;
+   text-align:center;
+}
+.container h4{
+    color:navy;
+    padding:5px;
+}
+.time{
+    position:absolute;
+}
